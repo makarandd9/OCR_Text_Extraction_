@@ -1,0 +1,14 @@
+# To work this file requirements are
+numpy
+opencv-python
+pillow
+pytesseract
+easyocr
+streamlit
+pandas
+matplotlib
+rapidfuzz
+pytest
+scikit-learn
+tqdm
+System Dependency to use Tesseract OCR binary
